@@ -1,3 +1,3 @@
 # friendly-couscous
 
-Data science and machine learning projects.
+My personal data science and machine learning projects.
